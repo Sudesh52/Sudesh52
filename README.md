@@ -16,7 +16,9 @@ I am a Power BI Developer and Data Enthusiast passionate about transforming raw 
 
 📫 Let's Connect!
 🔗 LinkedIn:https://www.linkedin.com/in/sudesh-arunachalam-b00186339/
-🔗 GitHub: github.com/Sudesh52
+
+🔗 GitHub:https://github.com/Sudesh52
+
 📧 Email: sudesharunachalaminfo@gmail.com
 
 ⚡ Fun Fact: I love exploring new BI tools and automation techniques to improve data analysis and visualization!
