@@ -1,23 +1,6 @@
-👋 Hello, I'm Sudesh Arunachalam!
-🚀 Power BI Developer | Aspiring Data Analyst | UI/UX Enthusiast
+I'm a data analyst fresher with a B.Tech in Computer Science & Business Systems 
+I work with SQL, Python, Power BI, and Excel — and I focus on one thing: turning data into answers that actually help people make decisions.I'm not here to just pull reports. I want to understand the business problem first, then use data to solve it.
 
-I am a Power BI Developer and Data Enthusiast passionate about transforming raw data into meaningful insights using interactive dashboards and data visualization. With experience in Microsoft Power BI, SQL, DAX, Python (Basics), and UI/UX Design, I specialize in data-driven storytelling to solve business challenges.
+What I bring: → SQL & Python for data extraction and analysis → Power BI & Excel for dashboards and reporting → A CS + business background that helps me speak both languages
 
-📌 Currently:
-🎓 Pursuing B.Tech in Computer Science at K.S. Rangasamy College of Technology
-📈 Enhancing my skills in SQL, Python, and Business Intelligence
-
-💡 Skills & Technologies
-✔ Business Intelligence & Visualization: Microsoft Power BI (Dashboards, Reports, DAX)
-✔ Data Management: SQL (Basic) Excel, Power Query, Data Cleaning, Transformation
-✔ Automation & Reporting: Report Optimization, KPI Dashboards
-✔ Programming & Analytics: Python (Pandas, NumPy), Excel
-✔ UI/UX Design: Figma (Wireframing, Prototyping)
-
-📫 Let's Connect!
-
-🔗 LinkedIn:https://www.linkedin.com/in/sudesh-arunachalam-b00186339/
-
-📧 Email: sudesharunachalaminfo@gmail.com
-
-⚡ Fun Fact: I love exploring new BI tools and automation techniques to improve data analysis and visualization!
+Currently looking for Data Analyst roles — remote or on-site.
